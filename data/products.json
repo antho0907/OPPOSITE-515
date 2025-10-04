@@ -1,0 +1,34 @@
+[
+  {
+    "id": "p001",
+    "title": "Posi \u2014 \u00c9dition Collector",
+    "game": "OPP",
+    "condition": "Near Mint",
+    "price": 129.99,
+    "image": "/posi.svg"
+  },
+  {
+    "id": "p002",
+    "title": "Nega \u2014 \u00c9dition Collector",
+    "game": "OPP",
+    "condition": "Near Mint",
+    "price": 129.99,
+    "image": "/nega.svg"
+  },
+  {
+    "id": "p010",
+    "title": "Flare Holo",
+    "game": "Pokemon",
+    "condition": "Near Mint",
+    "price": 39.99,
+    "image": ""
+  },
+  {
+    "id": "p020",
+    "title": "Magic Booster",
+    "game": "Magic",
+    "condition": "Sealed",
+    "price": 29.99,
+    "image": ""
+  }
+]
